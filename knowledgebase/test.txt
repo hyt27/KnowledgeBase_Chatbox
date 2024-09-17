@@ -1,0 +1,532 @@
+3.1 General
+Excavations for building developments and civil engineering works often require ELS 
+works to support the adjoining ground and construct the substructures.
+The following types of embedded wall are commonly used in Hong Kong to support 
+excavations:
+(a) Channel planking wall;
+(b) Sheet pile wall;
+(c) Soldier pile wall;
+(d) Pipe pile wall;
+(e) Bored pile wall; and
+(f) Diaphragm wall.
+The types of excavation support systems can be divided into the following four major 
+categories according to the form of support provided:
+(a) Cantilevered wall;
+(b) Strutted wall;
+(c) Tied-back wall; and
+(d) Circular shaft.
+3.2 Types of Embedded Wall
+3.2.1 Channel Planking Wall
+A channel planking wall comprises steel channel sections driven, pressed or vibrated 
+into loose to medium dense soils (e.g. SPT ‘N’ values less than 30). The commonly used section 
+sizes range from 150 mm (depth) × 90 mm (width) to 300 mm (depth) × 100 mm (width). A 
+typical channel planking wall arrangement is shown in Figure 3.1. There is no interlocking 
+between the channel sections, and therefore this wall type does not provide water tightness for 
+the excavation. The steel channel sections are very often driven into the ground in a group of 
+welded sections. Site welding at joints would normally be carried out on the excavated side in 
+order to minimise water seepage for excavations in ground with a high groundwater table. The 
+stiffness and moment capacity of the channel sections are usually small, and therefore a channel 
+planking wall is suitable for shallow excavations of generally less than 4 m in depth.
+25
+Figure 3.1 Typical Channel Planking Wall
+3.2.2 Sheet Pile Wall
+A steel sheet pile wall is the most common type of embedded wall used in Hong Kong. 
+A typical sheet pile wall arrangement is shown in Figure 3.2. Sheet piles are relatively flat 
+and wide in cross-section such that they can be installed side by side to form a continuous wall 
+with interlocks which generally provide reasonably good water tightness.
+Figure 3.2 Typical Type U Sheet Pile Wall
+Channel planking
+Waling beam
+Fillet weld 
+Fillet weld 
+Type U sheet pile
+Waling
+Short stud
+Interlock at centre
+line of the wall 
+26
+The common shapes of sheet pile sections include Type U and Type Z, with different 
+positions of the interlocks (Figures 3.2 and 3.3). There are many sectional types of Type U 
+sheet piles to suit varying space and strength requirements. Common sizes range from 
+400 mm to 500 mm in width and 100 mm to 200 mm in depth. Type Z sheet piles have a
+typical width of about 700 mm and depth of about 500 mm.
+Figure 3.3 Typical Type Z Sheet Pile Wall
+Type U sections are more widely used in Hong Kong because of the ease of stacking, 
+driving and transportation. The typical excavation depth using a Type U sheet pile ranges
+from 3 m to 15 m. However, the interlocks are located at the centre line of the sheet pile wall 
+where maximum shear stress develops. A reduced bending stiffness and moment capacity of 
+the connected Type U sheet piles is usually adopted to allow for slippage at the interlocks. The 
+reduction factors are discussed in CIRIA Special Publication 95 (Williams & Waite, 1993), 
+CIRIA C760 (Gaba et al, 2017) and Eurocode 3 (BSI, 2007). In this connection, a Type Z
+sheet pile wall has interlocks at the outer and inner face of the section and is more effective in 
+resisting bending moment as combined sections. In addition, a Type Z sheet pile wall has a 
+greater moment of inertia and sectional modulus than that formed using Type U sheet piles with 
+the same mass of material. Hence, Type Z sheet piles are becoming more commonly used in 
+deep excavation projects in Hong Kong. However, driving a single Type Z sheet pile section 
+requires better control of wall alignment as compared to a Type U section and it is common 
+practice to install Type Z sections in doubly clutched sheets with a larger clamp for wall 
+installation.
+Sheet pile walls are usually installed by driving, vibration or pressing the steel sections 
+into the ground. When selecting the profile and section size of the sheet piles, it is important 
+to consider their drivability and penetrability in the anticipated ground conditions.
+In general, where the ground is mainly comprised of loose to medium dense granular 
+soils (e.g. SPT ‘N’ values less than 30), it is common to install the sheet piles by vibration. It 
+is difficult to use the vibration method to install sheet piles through dense soil (e.g. SPT ‘N’ 
+values larger than 30), even with heavier sections. Moreover, vibration may induce ground 
+Type Z sheet pile
+Waling
+Interlock at 
+outer face of 
+wall section
+27
+settlement during pile installation or extraction, especially where the ground comprises loose 
+sandy soils or rock fills. For very dense soils with SPT ‘N’ values up to 120, a hydraulic or 
+drop hammer may be used to drive sheet piles through dense soil strata. When hard driving is 
+anticipated, heavier sheet pile sections are required to sustain the driving force. Significant 
+noise and vibration will be generated when a heavy hammer is used for driving.
+Obstructions in the ground (e.g. corestones, boulders, existing pile caps and basement, 
+and old seawalls) can pose difficulties to proper installation of sheet piles by driving. 
+Inadequate penetration of sheet piles is one of the common causes of excavation collapse in 
+Hong Kong (GEO, 2002). Hard driving of sheet piles through such obstructions should be 
+avoided, as it may damage the pile sections and cause declutching that affects the water 
+tightness of the sheet pile wall. Pre-boring to overcome underground obstructions and 
+enhanced site supervision are usually adopted to ensure proper installation of sheet piles to the 
+intended depth. Extra space may be needed to allow for the pre-boring works when planning 
+the alignment of a sheet pile wall close to the site boundary.
+As sheet piles can be reused, they should be inspected for any damage due to excessive 
+wear and tear. Damaged interlocks may be declutched during driving and cause ground loss 
+and ground settlement due to ingress of groundwater and loose soil. A sealant (e.g. material 
+containing hydrophilic polyurethane or wood resin), can be applied at the interlocking joint to 
+improve the water tightness of a sheet pile wall. However, it will also reduce the wall stiffness 
+and bending moment capacity. In some cases, site welding at the joints is carried out to 
+prevent water seepage, but this will make subsequent extraction of the sheet piles difficult. 
+Alternatively, a precautionary grout curtain wall may be installed behind the sheet pile wall in 
+case there is a potential issue of quality of interlocks where the wall is installed in the ground 
+with a high groundwater table.
+The press-in method of installation may also be adopted so as to reduce the noise and 
+vibration generated when compared with other installation methods. However, the 
+penetration of a press-in sheet pile wall is generally limited to loose to medium dense soils with 
+SPT ‘N’ values of around 30 or less. The press-in method may be used in conjunction with 
+water jetting or an auger to install sheet piles in harder strata. The use of water jetting may 
+increase potential ground loss surrounding the sheet piles and lead to excessive ground 
+settlement. Thus, water jetting should be used with caution and a tight supervision and 
+monitoring scheme should be implemented.
+3.2.3 Soldier Pile Wall
+A soldier pile wall consists of embedded piles with horizontal lagging spanning 
+between them to retain the soil. Steel H-sections or I-sections are often used as the soldier 
+piles, which provide intermittent vertical support and are installed before the commencement 
+of excavation commences. Typical arrangements of soldier pile walls with steel lagging are
+shown in Figure 3.4. The common size of steel section ranges from 305 mm to 610 mm in 
+depth. The spacing of solider piles should be determined based on the proximity of any 
+structures and utilities and the soil arching effect. In competent soils, a relatively wide spacing 
+of not more than three times the width of the steel sections could be adopted (GEO, 2020). 
+However, it should be cautioned that closer spacing is required where the ground condition 
+comprises loose fill and a high groundwater table near the surface, which is often the case in 
+28
+urban sites.
+Soldier piles are either driven or placed in pre-bored holes, which are backfilled with 
+grout or lean concrete, in deep excavations generally up to 20 m. Similar to sheet piles, soldier 
+piles can be driven into soil for faster installation. However, pre-boring is often required and 
+preferred to overcome underground obstructions, such as boulders or old seawall masonry
+blocks, especially in urban areas, and to minimise the vibration and noise arising from pile 
+driving. In addition, driving of steel sections may cause heave and settlement of nearby 
+buildings/structures/services (D’Appolonia, 1971) which should be duly considered in selecting 
+the appropriate embedded wall system.
+Figure 3.4 Typical Soldier Pile Wall with Steel Lagging
+Gap filled with 
+cement mortar
+Pre-bored hole 
+filled with cement 
+grout
+Soldier pile
+Full welding between steel 
+lagging and solider pile
+Steel lagging 
+plates
+Pre-bored hole 
+filled with cement 
+grout
+Soldier pile
+Full welding between steel 
+lagging and solider pile
+Steel lagging plates
+29
+Steel plates or channel sections connected by welding to the soldier piles, or shotcrete 
+with wire mesh, are usually adopted as lagging to support the soil face and prevent progressive 
+deterioration of the soil arching effect between the piles. Lagging is often installed in lifts of 
+1.0 m to 1.5 m, depending on the strength of the retained soil and the groundwater conditions.
+Soldier pile walls are well suited to competent ground, typically dense soils (e.g. 
+SPT ‘N’ values greater than 30), with a low groundwater table. When the base of the 
+excavation is below the groundwater level, a grout curtain wall is commonly provided to 
+minimise water seepage into the excavation. On the contrary, where there is a concern about 
+the build-up of groundwater pressure behind the lagging, drainage holes are provided at 
+appropriate levels to maintain the groundwater level, or to lower it if drawdown is permitted. 
+In such cases, filter materials such as synthetic fabrics may be used to prevent loss of soil behind 
+the wall. 
+3.2.4 Pipe Pile Wall
+A pipe pile wall is similar to a solider pile wall, except that the steel casing used in the 
+pre-boring works is also used as the vertical element to the excavation. Sometimes, steel H 
+sections are inserted inside the casing to increase the bending stiffness and capacity of the 
+embedded wall. Pipe pile walls are commonly used for excavations more than 10 m deep, 
+with typical casing sizes in Hong Kong ranging from 219 mm to 813 mm in outer diameter. 
+The spacing of the pipe piles should be determined based on similar considerations as for a 
+solider pile wall. Steel lagging is installed between the pipe piles to retain the excavated soil 
+face and prevent progressive deterioration of the soil arching between the piles, especially under 
+the groundwater table. In such cases, the grout curtain is often provided on the retained side
+of the pipe pile wall for water tightness before the commencement of excavation. A typical 
+pipe pile wall with a grout curtain is illustrated in Figure 3.5.
+Figure 3.5 Typical Pipe Pile Wall with Grout Curtain
+Pipe pile
+Steel 
+lagging
+Preferably two rows of 
+TAM grout pipes (refer to 
+Section 5.5)
+Grout within 
+soil mass
+Full fillet weld 
+between pipe pile 
+and steel lagging
+Cement mortar 
+packing behind 
+steel lagging
+30
+Interlocking pipe piles as shown in Figure 3.6 provide a reasonably good water cut-off 
+and are usually regarded as an impermeable embedded wall. The interlocking joints act as a 
+physical barrier against groundwater seepage, although minor seepage through the joints may 
+still occur if the difference in hydraulic head is significant. In such cases, sealant can be used 
+in the interlocking joints to further enhance water tightness (Li et al, 2018).
+Due to their water tightness, interlocking pipe piles have been gaining popularity in 
+recent excavation projects in Hong Kong. A few ELS projects (e.g. the Central Kowloon 
+Route crossing Kowloon Bay, and the Lyric Theatre in Tsim Sha Tsui) using interlocking pipe 
+pile walls have been successfully executed and the walls proved to be effective in providing a
+groundwater cut-off barrier. Interlocking pipe pile walls also have the advantage of readily 
+overcoming underground obstructions. However, particular attention is needed when 
+interlocking pipe piles are being advanced through mixed ground conditions (e.g. saprolite with 
+corestones), as even a small deviation of the wall alignment or installation tolerance could cause 
+interruption or clashing of the piles at depth. Retraction and reinstallation of the clashed pipe 
+piles may cause significant ground loss and hence induce undue ground deformation in the 
+vicinity. An oversize pre-bored hole is also required to accommodate the interlocks.
+Figure 3.6 Typical Interlocking Pipe Pile Wall
+3.2.5 Bored Pile Wall
+Bored pile walls generally have a relatively large wall stiffness and are better in 
+limiting wall deflection during excavation as compared with the foregoing wall types. They 
+are usually used in excavations more than 15 m deep. A bored pile wall is formed by a row 
+of either contiguous bored piles or secant bored piles constructed along the periphery of the 
+excavation. Contiguous piles (Figure 3.7) do not intersect with each other and the gaps 
+between piles are typically around 100 mm to 500 mm to allow for construction tolerance and 
+Interlocking joint
+Slightly oversized pre-bored hole
+31
+avoid overlapping at depth, although the space between the piles can be larger in more 
+competent soils. The wall tolerance should be specified based on the type of installation 
+method, as well as deflections occurring during wall installation. A grout curtain is commonly
+used to prevent water seepage between the gaps during excavation. The bored pile wall is
+usually used as a permanent structure, with a secondary internal wall tied to the bored pile wall 
+in order to improve water tightness and provide a wall surface with a better aesthetic finish.
+Figure 3.7 Typical Contiguous Bored Pile Wall
+On the contrary, secant bored piles (Figure 3.8) are concrete piles that are cast in-situ 
+but overlap with a greater contact between adjacent piles. The piles are usually arranged as
+alternate soft piles and hard piles. The soft piles are commonly formed as bored piles with 
+weaker plain concrete, although jet grouting has also been used in individual projects. The 
+hard piles, cutting into the soft piles when bored, are the main structural elements and are 
+properly reinforced. The soft piles are intended to prevent water seepage by supporting the 
+ground between the hard piles.
+Figure 3.8 Typical Secant Bored Pile Wall
+Concrete facing
+Reinforcement cage
+Bored pile
+Hard pile with 
+reinforcement
+Soft pile with weaker 
+plain concrete
+32
+Bored piles are usually excavated by a high rotary table rig, or by grab and chisel 
+within a steel casing, which is advanced progressively with the use of an oscillator or a rotator. 
+Reverse circulation drilling (RCD) incorporating rock roller bits may be used when needed to 
+penetrate rock or boulders (GEO, 2006). Bored pile shafts can also be excavated by means of 
+a rotary auger or a rotary drilling bucket under a bentonite slurry which supports the sides of 
+the excavated shaft (GEO, 2020). The considerations for using a bentonite slurry for 
+excavation of a bored pile without temporary casing are similar to those for a diaphragm wall 
+and are discussed in Chapter 5.
+Where excavation is to be carried out beyond the casing, it should be supported by an 
+excess water head or bentonite slurry. Alternatively, steel casing may be advanced below the 
+excavation level to provide the support (GEO, 2006). Excavation ahead of the toe of 
+temporary casing in loose soil strata may cause excessive ingress of groundwater and soil into 
+the borehole, which is one of the probable causes of deep sinkholes. In loose soil strata and/or 
+near sensitive structures, no excavation should be allowed unless an adequate toe-in of the 
+temporary casing is achieved during bored piling operations. 
+Similar problems of ground instability may also arise where a steep rockhead is 
+encountered during RCD to form a rock socket. In such cases, pre-grouting at the toe of 
+temporary casing down to the rockhead may be considered. Where the deep rockhead is 
+encountered, it may be difficult to install the grout holes in precise positions surrounding the 
+bored pile. Alternatively, plugging of the toe with concrete or soil mixed polymer fluid (e.g. 
+Supermud) could be used to enhance the stability of the empty bore as excavation proceeds. 
+3.2.6 Diaphragm Wall
+A diaphragm wall is formed by a series of aligned discrete rectangular reinforced 
+concrete panels (Figure 3.9). It was first introduced in Hong Kong in the development of the 
+New World Centre (Tamaro, 1981). Since then, the technique was used extensively in the 
+construction of the Mass Transit Railway (MTR) underground stations (e.g. Budge-Reid et al, 1984)
+and for the deep basements of high-rise buildings (e.g. Liu et al, 2010). A diaphragm wall is
+suitable for most ground conditions, except for very soft ground due to the high risk of 
+instability in the trenches used to form the panels. Sometimes, pre-grouting may be required 
+to improve the ground condition before the installation of a diaphragm wall.
+Apart from rectangular panels, T-, Z- and I-shaped panels are sometimes used, which 
+provide higher stiffness and larger moment capacity. However, construction of 
+non-rectangular panels is relatively difficult and close site supervision is required (Fernie et al, 
+2012). They should be used with caution, as it is more difficult to maintain the trench stability. 
+Diaphragm wall panels commonly have a thickness ranging from 0.8 m to 1.5 m and
+length between 2.8 m and 6.4 m. Individual panels up to 6 m long are usually excavated by 
+two or three bites of the excavating equipment. Besides strength considerations, selection of 
+panel size should also consider constructability aspects, including adequate space for placing 
+tremie pipes, reservation tubes and stop ends, and for concrete flow between steel reinforcement 
+bars. Excavation and concreting of adjacent panels should be carried out in alternate panels 
+sequentially (e.g. starting panels first, then closing panels), which permits soil arching to
+develop around the panel excavation.
+33
+Figure 3.9 Typical Diaphragm Wall
+Rectangular trenches are excavated with the use of grabs or hydromills (also called 
+trench cutters or hydrofraises). As compared to grabs, hydromills are generally more powerful, 
+efficient and versatile and can work continuously to lift the excavated material to the surface 
+(Endicott, 2020). The reinforced concrete panels are usually cast in-situ in Hong Kong. 
+Precast panels are seldom used due to construction difficulties in connecting the panels together 
+on site.
+A diaphragm wall generally provides good water tightness between cast in-situ panels. 
+The commonly used joint systems in Hong Kong include vertically pulled and peel-off steel 
+systems, which enable a vertical water stop to be adopted. Accurate placing of stop-ends is 
+vital for the control of panel dimensions and water tightness at panel joints. Local experience 
+in successful placing and removing such stop-ends is limited to about 50 m depth. If the 
+adoption of stop-ends with a water stop is considered impractical, or the performance of a water 
+stop is ineffective, grouting should be applied at and around the construction joints between the 
+diaphragm wall panels.
+Trench excavation of a diaphragm wall is usually supported by bentonite slurry. The 
+hydrostatic pressure of the slurry should be controlled so that it is always greater than the 
+combined water and earth pressures, with due allowance given for the soil arching effect 
+(GEO, 2020). Further details of the construction considerations for a diaphragm wall are
+presented in Chapter 5.
+A concrete capping beam is usually cast on top of the diaphragm wall panels, which 
+allows more even load distribution on the diaphragm wall and hence reduces the differential
+wall deflection. For situations where part of a diaphragm wall is to be bored through or saw 
+cut to create a wall opening (e.g. Tunnel Boring Machine launching or retrieval), the capping 
+beam could also take up the self-weight of the hanging diaphragm wall panels above the wall 
+opening.
+Diaphragm walls founded on rock are usually designed to have a shallow rock 
+Closing panel
+Successive panel
+Water stop
+Reinforcement cage
+Starting panel
+34
+embedment. Otherwise, larger power hydromills and a longer period of excavation will be 
+needed for deep penetration in rock. Where excavation is extended below rockhead, shear 
+pins are commonly installed and penetrated below the final excavation level in order to ensure 
+the toe stability of the diaphragm wall.
+Rock fissure grouting is often carried out below the toe of a diaphragm wall where it
+is necessary to control groundwater seepage along rock joints or other discontinuities into the 
+excavation. Sze & Young (2003) described the construction of a deep basement for Chater
+House which involved the adoption of toe grouting in the form of chemical grout in soils and 
+fissure grouting in rock down to a depth of 5 m into Grade III or better rock, in order to ensure 
+the effectiveness of the water cut-off barrier and limit the drawdown of groundwater level 
+outside the site. Steel reservation tubes can be provided in the reinforcement cage for toe 
+grouting and installation of shear pins. In addition to lateral stability at the wall toe, vertical 
+stability also needs to be considered as diaphragm wall panels impose large surcharge loading 
+on vertical or inclined rock excavations. Field mapping of the exposed rock face and stability 
+assessment should be carried out for different types of potential rock slope failures (e.g. plane 
+mode, wedge mode and toppling mode), and appropriate stabilisation measures added if 
+necessary (e.g. rock bolts/anchors).
+3.3 Forms of Excavation Support
+3.3.1 Cantilevered Wall
+A cantilevered wall is a wall driven or bored to a depth considerably greater than the 
+depth of excavation and derives its support from the resistance provided by the embedded 
+section of the wall. It has a simple construction sequence with no strutting and can provide a 
+large unobstructed area for construction of permanent structures within the excavation. 
+Nevertheless, in order to reduce wall deflection, a light waling is sometimes installed to even 
+out variations of ground pressures along the wall (Williams & Waite, 1993). 
+Cantilevered walls are generally limited to relatively shallow excavations. For deep 
+excavations, the wall section requires much higher stiffness and bending moment capacity (e.g.
+as provided by a large diameter bored pile wall) in order to maintain the wall deflection and 
+ground deformation within tolerable limits. As such, cantilevered walls are economical only 
+for moderate retaining wall heights (usually less than 5 m), as the required stiffness and 
+structural capacity of the wall increases rapidly with increase in retained height.
+3.3.2 Strutted Wall
+A strutted wall is the most popular system for deep excavation in Hong Kong and its 
+layout should be planned with due consideration of ease of access for excavation plant, export 
+of excavated materials and configuration of the permanent works. Different strutting systems, 
+including the cross-lot and raking strut systems, are shown in Figures 3.10 and 3.11. 
+Pre-loading may be applied to struts to reduce wall deflection, and thereby the associated 
+ground settlement. However, wall deflection during preloading may affect the water tightness 
+of completed grout curtains. Strut removal can also give rise to additional wall deflection and 
+the construction sequence should be carefully planned. The space between the permanent 
+35
+structure and the embedded wall should be properly backfilled and compacted.
+Figure 3.10 Strutting System with Raking Struts
+Figure 3.11 Strutting System with Cross-lot
+The disadvantage of a cross-lot strutting system is that the working space can be severely 
+restricted. The diagonal strutting system as shown in Figure 3.12 is more suited to small and 
+Cross-lot
+Contiguous 
+pipe pile wall
+Waling
+Raking strut
+Structural 
+support on piles
+Sloping ground
+Sheet pile 
+wall
+36
+preferably square excavations, e.g. shafts. Diagonal strutting is also used near the corners of 
+wide excavations and serves to leave a relatively large portion of the excavation open. Raking 
+struts are commonly used for unbalanced excavations where the excavation depth and loading 
+are different on the opposite sides of an excavation, or where the excavation is particularly wide 
+and makes cross-lot strutting impracticable. A combination of cross-lot, raking and diagonal 
+struts is sometimes used to suit the specific site conditions.
+Figure 3.12 Strutting System with Diagonal Struts
+Two types of construction sequence (i.e. bottom-up and top-down) for strutted walls
+are common in Hong Kong. Figure 3.13 illustrates the bottom-up sequence, in which the 
+excavation is first completed before the permanent structure is built from the bottom upwards. 
+The bottom-up sequence allows the permanent structure to be built from the base and 
+independent of the temporary works. Hence the permanent structure, if kept separate from the 
+temporary structures, will have no locked-in deformation and stresses due to sequential loading 
+during excavation (Endicott, 2020). However, cross-lot or raking struts used to facilitate the
+bottom-up sequence can obstruct part of the excavation space and impede the construction of 
+permanent structures. Besides, steel decking is usually erected on top of the struts to provide 
+temporary platforms for site construction works.
+The top-down construction sequence, as illustrated in Figure 3.14, uses the permanent 
+internal structure as part of the strutting to the embedded wall, with the top basement slabs cast 
+before further excavation down to lower-levels as the works progress. This sequence allows 
+the superstructure to be constructed simultaneously with the basement structure. This method 
+of construction is common for deep excavations in Hong Kong, particularly when it is planned 
+Contiguous 
+pipe pile wall
+Diagonal strut
+37
+as part of an accelerated construction of the superstructure. The top basement slab enables 
+flexible usage of the ground (e.g. for road traffic) and provides cover to the site against adverse 
+weather. Nevertheless, a disadvantage of this construction method is that it limits the head 
+room for large construction plant to excavate materials underneath the constructed floor slabs. 
+Large openings in slabs, e.g. for the mucking out of excavated materials, can locally influence 
+the support stiffness to the wall.
+Figure 3.13 Bottom-up Construction
+Figure 3.14 Top-down Construction
+Stanchion 
+supporting 
+structure 
+above
+Ground floor 
+slab and 
+construction 
+above
+Diaphragm 
+wall
+Waling and 
+strut 
+supporting 
+the 
+diaphragm 
+wall as 
+excavation 
+proceeds
+Opening for 
+mucking out
+38
+From programme and constructability perspectives, it is preferable to have lateral 
+support provided at relatively large intervals so as to minimise restrictions on the working 
+methods. Besides the strength and stiffness of the excavation support system, practical issues 
+related to the erection of large struts and waling sections should also be considered (Gaba, 2012). 
+The typical horizontal spacing between steel struts used in bottom-up construction in Hong 
+Kong is between 3 m and 9 m, while the typical vertical spacing is between 2 m and 4 m. In 
+the top-down construction method, a reinforced concrete slab can provide stiffer support than a 
+steel strutting system, thus a larger vertical spacing can be allowed, typically ranging from 3 m 
+to 6 m.
+A diaphragm wall is commonly used as a permanent basement wall that is propped by 
+the structural floor slab. Buildability aspects should be considered in designing the structural 
+connection between the wall and basement slab. Starter bars can be cast in the diaphragm 
+wall, and later exposed and bent out when needed to be lapped with the slab reinforcement. 
+Proper and strong fixing is required to ensure the left-in starter bars are not damaged or 
+displaced during concreting of the diaphragm wall. The size of starter bars should be suitably 
+selected to avoid difficulty in bending out the bars. Sometimes, an additional row of starter 
+bars is provided to allow for any misalignment in the elevation of the bars.
+Embedding couplers in diaphragm walls is an alternative technique that has been used 
+in some basement projects in Hong Kong. However, the quality of workmanship and site 
+supervision of the quality of coupler connections are essential to avoid defective connections 
+(e.g. improper connection and inadequate thread engagement), which may result in significant 
+structural remedial works and also affect durability of the permanent structures. Adequate 
+space for threading of reinforcement bars into embedded couplers should be provided. 
+Localised post drilling may be adopted as a remedial measure for rectifying missing or 
+misaligned couplers or starter bars. However, their installation may damage the wall 
+reinforcement and affect the water tightness of the diaphragm wall panel.
+3.3.3 Tied-back Wall
+Tied-back walls, in which the wall is anchored or tied back into unexcavated ground 
+outside the excavation, are less commonly used in Hong Kong, as it is not always possible to 
+install the tie-backs in adjoining ground, particularly where it would involve encroachment into
+private land and properties. However, where encroachment into the adjoining ground is 
+acceptable, a tied-back wall has the advantage of providing an excavation area free of strutting 
+and facilitates construction of the permanent works. For excavations on sloping terrain, where 
+there is large unbalanced excavation across the site and lack of space for construction works, a 
+tied-back wall often provides a practical and feasible solution. Tied-back walls have been 
+successfully employed in a number of local projects as temporary support measures by using 
+ground anchors such as soil nails or prestressed anchors. Lam (2018) reported the application 
+of a tied-back wall for a hillside excavation project in Stubbs Road, Hong Kong, as shown in 
+Figure 3.15. Choi et al (2021) also reported the construction of the Lung Shan Tunnel portal 
+using a temporary tied-back wall to support a composite retaining wall.
+In Hong Kong, prestressed ground anchors (Figure 3.16) are sometimes used in a 
+tied-back wall. The connecting elements are either tie rods or cable strands. These elements 
+are commonly made of high strength steel and therefore a relatively small sectional area of 
+39
+anchor is required to provide a sufficient anchorage force to support the excavation. 
+Prestressed ground anchors are seldom used as permanent structural support to the retaining 
+wall, as this imposes a long-term monitoring commitment on the maintenance parties which 
+usually involves appreciable recurrent cost and, should deficiencies be found at a later time, 
+remedial works may be difficult and expensive. The monitoring requirements for soil nails 
+and prestressed ground anchors are given in Geoguide 7 (GEO, 2023a) and Geospec 1 
+(GEO, 1997) respectively.
+Figure 3.15 Tied-back Wall Support System for the Excavation Works at Stubbs Road 
+Figure 3.16 Tied-back Wall Support System Using Ground Anchors
+Ground 
+anchor
+Embedded wall
+Anchored 
+head
+40
+Where tie-backs are used as temporary support, they are usually abandoned after 
+completion of the substructure works. The left-in steel bars or wire strands may obstruct 
+subsequent construction works in adjoining ground. Removable or retractable ground anchors 
+have been adopted for deep excavation projects in Hong Kong, such as the Phase II 
+Development of Hopewell Centre, a residential development in Tsing Yi, the MTR viaduct in 
+Wong Chuk Hang (Chan et al, 2017), a commercial development at the Hong Kong 
+International Airport, and the redevelopment of Grantham Hospital as shown in Figure 3.17. 
+In these cases, the steel strands were pulled out, leaving only the plastic sheaths.
+Swann et al (2013) described the use of glass fibre reinforced polymer (GFRP) bars as 
+soil nails in the temporary excavation works for construction of the Ho Man Tin Station. 
+GFRP bars can be cut with conventional drilling equipment and do not pose a significant 
+obstruction to future construction works. Besides, the use of light weight GFRP bars is 
+appealing for constrained sites where it may be difficult to deploy heavy lifting equipment.
+Figure 3.17 Retractable Prestressed Ground Anchor Support System at the 
+Redevelopment of Grantham Hospital
+3.3.4 Circular Shaft
+Circular shafts are gaining popularity in local large-scale projects where excavation 
+deeper than 30 m is required. Diaphragm wall panels are commonly used to form the circular 
+shaft, where the panels themselves act as compression members to resist the lateral earth load. 
+In cases where the wall panels could not provide sufficient support through the hoop action, 
+continuous reinforced concrete ring beams are constructed. This type of support system 
+requires fewer or no internal strutting as compared to other systems, thereby allowing more free 
+working space within the site. Also, the hoop compression can improve the water tightness 
+41
+between diaphragm wall panels. However, it is important to ensure effective overlapping of 
+the wall panels in order to ensure full development of the hoop action. Thus, the tolerance of 
+the alignment of the wall panels and joints should be carefully controlled (Gaba et al, 2017).
+Pappin (2011) presented case histories of using a diaphragm wall to facilitate circular 
+shaft excavation in Hong Kong and Singapore, including the Cheung Kong Centre, 
+International Finance Centre 2 and the International Commerce Centre (Figure 3.18). The 
+latter two excavations used diaphragm wall panels of 1.5 m thick, with the internal diameters 
+of the circular shafts ranging between 61 m and 76 m and excavation depth up to 35 m. The 
+Singapore experience showed that it was practicable to construct a circular shaft of up to 120 m 
+in diameter and excavation depth up to 18 m. Despite such large-scale excavation, the lateral 
+displacements recorded were small and generally less than 20 mm (Pappin, 2011).
+More recently, multi-cell shaft excavation in a “peanut” shape, which is a series of 
+interlocking circular shafts, has been used to construct a launching platform for tunnel boring 
+machines (Figure 3.19) in the Trunk Road T2 and Cha Kwo Ling Tunnel Project. 
+Chan et al (2020) described the use of a fifteen-cell cofferdam for the construction of the 
+southern approach road of the Tuen Mun-Chek Lap Kok Link (Figure 3.20).
+Figure 3.18 Circular Shaft for Basement Construction at International Commerce 
+Centre
